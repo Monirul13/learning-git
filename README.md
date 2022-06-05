@@ -1,3 +1,3 @@
-# learning-git
+# learning-git and github
 
-This repo was used to learn how to use git.
+## This is a demo project.This repo was used to learn how to use git and github.
